@@ -44,7 +44,7 @@ function StrictTerms() {
 
       <p>
         As always, Message and Data Rates May Apply for any messages sent to you from us and to us from you. If you have any questions about your text plan or data plan, it is best to contact your wireless provider. For all questions about the services provided by this text messaging program, you can send an email to:{' '}
-        <a href="mailto:josh@georgiawholesalehomes.com" className="text-navy underline">josh@georgiawholesalehomes.com</a>.
+        <a href="mailto:info@georgiawholesalehomes.com" className="text-navy underline">info@georgiawholesalehomes.com</a>.
       </p>
 
       <p>
@@ -58,7 +58,7 @@ function StrictTerms() {
       <h2 className="text-2xl font-display text-navy mt-10 mb-3">Contacting Us</h2>
       <p>
         If there are any questions regarding this Terms of Use and Privacy Policy you may contact us at{' '}
-        <a href="mailto:josh@georgiawholesalehomes.com" className="text-navy underline">josh@georgiawholesalehomes.com</a>{' '}
+        <a href="mailto:info@georgiawholesalehomes.com" className="text-navy underline">info@georgiawholesalehomes.com</a>{' '}
         or Call Us at{' '}
         <a href="tel:+17705207674" className="text-navy underline">(770) 520-7674</a>.
       </p>
@@ -111,7 +111,7 @@ function DefaultTerms() {
       <h2 className="text-2xl font-display text-navy mt-10 mb-3">Contact Us</h2>
       <p>
         For questions about our SMS program:{' '}
-        <a href="mailto:josh@georgiawholesalehomes.com" className="text-navy underline">josh@georgiawholesalehomes.com</a>{' '}
+        <a href="mailto:info@georgiawholesalehomes.com" className="text-navy underline">info@georgiawholesalehomes.com</a>{' '}
         or{' '}
         <a href="tel:+17705207674" className="text-navy underline">(770) 520-7674</a>.
       </p>

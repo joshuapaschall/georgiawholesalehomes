@@ -30,7 +30,7 @@ function StrictPrivacy() {
       <h2 className="text-2xl font-display text-navy mt-8 mb-3">Contacting Us</h2>
       <p>
         If there are any questions regarding this Privacy Policy you may contact us at{' '}
-        <a href="mailto:josh@georgiawholesalehomes.com" className="text-navy underline">josh@georgiawholesalehomes.com</a>{' '}
+        <a href="mailto:info@georgiawholesalehomes.com" className="text-navy underline">info@georgiawholesalehomes.com</a>{' '}
         or Call Us at{' '}
         <a href="tel:+17705207674" className="text-navy underline">(770) 520-7674</a>.
       </p>
@@ -69,7 +69,7 @@ function DefaultPrivacy() {
       <h2 className="text-2xl font-display text-navy mt-8 mb-3">Data retention</h2>
       <p>
         We retain your contact information as long as you remain subscribed to our SMS program. If you opt out (by texting STOP or any standard opt-out keyword), we retain a record of your opt-out for TCPA compliance purposes but suppress all further messaging. You may request deletion of your contact information by emailing{' '}
-        <a href="mailto:josh@georgiawholesalehomes.com" className="text-navy underline">josh@georgiawholesalehomes.com</a>.
+        <a href="mailto:info@georgiawholesalehomes.com" className="text-navy underline">info@georgiawholesalehomes.com</a>.
         We will delete your record within 30 days of a valid request, except where retention is required for TCPA compliance.
       </p>
 
@@ -85,7 +85,7 @@ function DefaultPrivacy() {
       <h2 className="text-2xl font-display text-navy mt-8 mb-3">Contact us</h2>
       <p>
         Questions about this privacy policy?{' '}
-        <a href="mailto:josh@georgiawholesalehomes.com" className="text-navy underline">josh@georgiawholesalehomes.com</a>{' '}
+        <a href="mailto:info@georgiawholesalehomes.com" className="text-navy underline">info@georgiawholesalehomes.com</a>{' '}
         or{' '}
         <a href="tel:+17705207674" className="text-navy underline">(770) 520-7674</a>.
       </p>
