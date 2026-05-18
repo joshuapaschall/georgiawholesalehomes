@@ -12,8 +12,15 @@ const BUYER_TYPES = [
   { value: 'other', label: 'Other' },
 ];
 
-const CONSENT_TEXT =
+const TCPA_STRICT = process.env.NEXT_PUBLIC_TCPA_STRICT === 'true';
+
+const CONSENT_TEXT_STRICT =
+  'By Submitting your cell phone number you are agreeing to receive automated/promotional Text Messages from Georgia Wholesale Homes. Message frequency varies. This campaign utilizes promotional marketing. Reply STOP to cancel. For Help reply with HELP. Message and Data Rates May Apply.';
+
+const CONSENT_TEXT_DEFAULT =
   'By submitting your cell phone number, you agree to receive automated promotional SMS messages from Georgia Wholesale Homes. Message frequency varies (typically 1-3 per week). Message and data rates may apply. Reply STOP to opt out, HELP for help. Consent is not a condition of purchase. View our Terms of Service and Privacy Policy.';
+
+const CONSENT_TEXT = TCPA_STRICT ? CONSENT_TEXT_STRICT : CONSENT_TEXT_DEFAULT;
 
 const API_BASE = process.env.NEXT_PUBLIC_LISTHIT_API_URL || 'https://app.listhit.io';
 
@@ -145,11 +152,28 @@ export function BuyerSignupForm({ variant = 'card' }: { variant?: 'card' | 'inli
             type="checkbox"
             checked={consent}
             onChange={(e) => setConsent(e.target.checked)}
-            className="mt-1 w-4 h-4 accent-orange-500 cursor-pointer"
+            className="mt-1 w-4 h-4 accent-orange-500 cursor-pointer flex-shrink-0"
           />
-          <span className="text-xs text-ink/70 leading-relaxed">
-            By submitting, I agree to receive automated promotional SMS from Georgia Wholesale Homes. Msg & data rates may apply. Reply STOP to opt out, HELP for help. View <a href="/terms" className="text-navy underline">Terms</a> and <a href="/privacy" className="text-navy underline">Privacy Policy</a>.
-          </span>
+          {TCPA_STRICT ? (
+            <span className="text-xs text-ink/70 leading-relaxed">
+              By Submitting your cell phone number you are agreeing to receive
+              automated/promotional Text Messages from Georgia Wholesale Homes.
+              Message frequency varies. This campaign utilizes promotional
+              marketing. Reply STOP to cancel. For Help reply with
+              &quot;HELP&quot;. Message and Data Rates May Apply.{' '}
+              <a href="/terms" className="text-navy underline">Terms of Use</a>{' '}
+              and{' '}
+              <a href="/privacy" className="text-navy underline">Privacy Policy</a>
+            </span>
+          ) : (
+            <span className="text-xs text-ink/70 leading-relaxed">
+              By submitting, I agree to receive automated promotional SMS from
+              Georgia Wholesale Homes. Msg &amp; data rates may apply. Reply STOP
+              to opt out, HELP for help.{' '}
+              <a href="/terms" className="text-navy underline">Terms</a> and{' '}
+              <a href="/privacy" className="text-navy underline">Privacy Policy</a>
+            </span>
+          )}
         </label>
 
         {status === 'error' && errorMsg && (
