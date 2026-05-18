@@ -11,7 +11,6 @@ const FAQS = [
   { q: 'Are the properties really 30-50% under retail?', a: 'Yes, on average. We source through direct mail, driving for dollars, probate, foreclosure, and off-market networks. Every deal is priced for an investor margin — you can flip, rent, or hold with built-in equity.' },
   { q: 'What areas do you cover?', a: 'Metro Atlanta and surrounding counties — Fulton, DeKalb, Cobb, Gwinnett, Clayton, Henry, Rockdale, Newton, and others. If we expand into new markets, we\'ll let our list know first.' },
   { q: 'Do I need to be an LLC or have proof of funds?', a: 'No. We work with first-time buyers and seasoned investors. The only thing that matters is your ability to close fast when you find a deal you want. For larger deals or competitive properties, we may ask for proof of funds before sending full details.' },
-  { q: 'Who runs Georgia Wholesale Homes?', a: 'Joshua Paschall, based in Decatur, GA. We\'ve sourced 100+ properties across metro Atlanta. You can reach us anytime at (770) 520-7674 or info@georgiawholesalehomes.com.' },
   { q: 'Can I see properties before they\'re texted to the list?', a: 'No — our list is the first place a deal is announced. The whole value of being on the list is getting the alert before anyone else. Public listings on this site are properties already shown to the list.' },
 ];
 
