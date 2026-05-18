@@ -3,31 +3,30 @@
 @tailwind utilities;
 
 :root {
-  color-scheme: light;
+  --color-navy: #1E3A8A;
+  --color-orange: #F97316;
+  --color-cream: #F9F7F1;
+  --color-ink: #1F2937;
 }
 
-html {
-  scroll-behavior: smooth;
+@layer base {
+  body {
+    font-feature-settings: 'cv02', 'cv03', 'cv04', 'cv11';
+  }
+  h1, h2, h3, h4 {
+    font-family: var(--font-display);
+    letter-spacing: -0.02em;
+  }
 }
 
-body {
-  @apply bg-cream text-navy font-body antialiased;
-}
-
-@layer utilities {
-  .section-padding {
-    @apply px-6 py-20 md:px-10 lg:px-16;
+@layer components {
+  .btn-primary {
+    @apply inline-flex items-center justify-center bg-orange-500 hover:bg-orange-600 text-white font-medium px-6 py-3 rounded-md transition-colors;
   }
-
-  .section-title {
-    @apply font-heading text-4xl font-semibold leading-tight text-navy md:text-5xl;
+  .btn-secondary {
+    @apply inline-flex items-center justify-center bg-white hover:bg-cream text-navy border border-navy/20 font-medium px-6 py-3 rounded-md transition-colors;
   }
-
-  .section-subtitle {
-    @apply mt-4 max-w-2xl text-lg text-navy/70;
-  }
-
-  .glass-card {
-    @apply rounded-2xl border border-navy/10 bg-white/90 p-8 shadow-soft backdrop-blur;
+  .container-page {
+    @apply max-w-content mx-auto px-6 sm:px-8 lg:px-12;
   }
 }

@@ -1,10 +1,12 @@
 'use client';
 
 import Link from 'next/link';
-import { useEffect, useState } from 'react';
+import { useState, useEffect } from 'react';
+import { Logo } from './Logo';
 
-export default function Navbar() {
+export function Navbar() {
   const [scrolled, setScrolled] = useState(false);
+  const [mobileOpen, setMobileOpen] = useState(false);
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 12);
@@ -15,24 +17,47 @@ export default function Navbar() {
 
   return (
     <header
-      className={`sticky top-0 z-50 px-8 py-4 transition-all duration-300 ${
-        scrolled ? 'bg-navy/90 backdrop-blur-md shadow-lg' : 'bg-navy'
+      className={`sticky top-0 z-50 transition-all duration-300 ${
+        scrolled ? 'bg-white shadow-sm' : 'bg-cream'
       }`}
     >
-      <nav className="mx-auto flex max-w-7xl items-center justify-between">
-        <Link
-          href="#home"
-          className="font-heading text-xl font-semibold tracking-wide text-gold"
-        >
-          Georgia Wholesale Homes
+      <nav className="container-page flex items-center justify-between py-4">
+        <Link href="/" className="flex-shrink-0">
+          <Logo variant="horizontal" size={44} />
         </Link>
-        <a
-          href="tel:7705033434"
-          className="font-body text-base font-medium text-white transition-colors duration-300 hover:text-gold"
+
+        <div className="hidden md:flex items-center gap-8">
+          <Link href="/properties" className="text-ink hover:text-navy font-medium text-sm">Properties</Link>
+          <Link href="/how-it-works" className="text-ink hover:text-navy font-medium text-sm">How It Works</Link>
+          <Link href="/faq" className="text-ink hover:text-navy font-medium text-sm">FAQ</Link>
+          <Link href="/our-company" className="text-ink hover:text-navy font-medium text-sm">About</Link>
+          <Link href="/contact-us" className="text-ink hover:text-navy font-medium text-sm">Contact</Link>
+          <Link href="/#signup" className="btn-primary text-sm py-2 px-5">Join VIP List</Link>
+        </div>
+
+        <button
+          className="md:hidden p-2"
+          onClick={() => setMobileOpen(!mobileOpen)}
+          aria-label="Toggle menu"
         >
-          (770) 503-3434
-        </a>
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+            {mobileOpen ? <path d="M18 6L6 18M6 6l12 12" /> : <path d="M3 12h18M3 6h18M3 18h18" />}
+          </svg>
+        </button>
       </nav>
+
+      {mobileOpen && (
+        <div className="md:hidden bg-white border-t border-navy/10">
+          <div className="container-page flex flex-col py-4 gap-4">
+            <Link href="/properties" className="text-ink font-medium" onClick={() => setMobileOpen(false)}>Properties</Link>
+            <Link href="/how-it-works" className="text-ink font-medium" onClick={() => setMobileOpen(false)}>How It Works</Link>
+            <Link href="/faq" className="text-ink font-medium" onClick={() => setMobileOpen(false)}>FAQ</Link>
+            <Link href="/our-company" className="text-ink font-medium" onClick={() => setMobileOpen(false)}>About</Link>
+            <Link href="/contact-us" className="text-ink font-medium" onClick={() => setMobileOpen(false)}>Contact</Link>
+            <Link href="/#signup" className="btn-primary text-sm" onClick={() => setMobileOpen(false)}>Join VIP List</Link>
+          </div>
+        </div>
+      )}
     </header>
   );
 }
