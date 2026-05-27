@@ -2,31 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --color-navy: #1E3A8A;
-  --color-orange: #F97316;
-  --color-cream: #F9F7F1;
-  --color-ink: #1F2937;
-}
-
 @layer base {
-  body {
-    font-feature-settings: 'cv02', 'cv03', 'cv04', 'cv11';
-  }
-  h1, h2, h3, h4 {
-    font-family: var(--font-display);
-    letter-spacing: -0.02em;
-  }
+  body { font-feature-settings: 'cv02', 'cv03', 'cv04', 'cv11'; }
+  h1, h2, h3, h4 { font-family: var(--font-display); letter-spacing: -0.02em; }
 }
-
 @layer components {
-  .btn-primary {
-    @apply inline-flex items-center justify-center bg-orange-500 hover:bg-orange-600 text-white font-medium px-6 py-3 rounded-md transition-colors;
-  }
-  .btn-secondary {
-    @apply inline-flex items-center justify-center bg-white hover:bg-cream text-navy border border-navy/20 font-medium px-6 py-3 rounded-md transition-colors;
-  }
-  .container-page {
-    @apply max-w-content mx-auto px-6 sm:px-8 lg:px-12;
-  }
+  .btn-primary { @apply inline-flex items-center justify-center bg-orange-600 hover:bg-orange-700 focus-visible:ring-2 focus-visible:ring-orange-600 focus-visible:ring-offset-2 text-white font-medium px-6 py-3 rounded-md transition-colors duration-200; }
+  .container-page { @apply max-w-content mx-auto px-6 sm:px-8 lg:px-12; }
+  .nav-link { @apply text-ink hover:text-navy font-medium text-sm transition-colors duration-200 focus-visible:ring-2 focus-visible:ring-orange-600 focus-visible:ring-offset-2 rounded-sm; }
+  .skip-link { @apply absolute left-3 top-2 -translate-y-14 focus:translate-y-0 bg-navy text-white px-3 py-2 rounded z-[60]; }
 }
+@media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; } }
