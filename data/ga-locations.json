@@ -1,0 +1,3971 @@
+{
+  "statewide": "GA, USA",
+  "counties": [
+    {
+      "label": "Appling County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Atkinson County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Bacon County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Baker County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Baldwin County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Banks County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Barrow County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Bartow County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Ben Hill County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Berrien County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Bibb County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Bleckley County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Brantley County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Brooks County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Bryan County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Bulloch County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Burke County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Butts County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Calhoun County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Camden County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Candler County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Carroll County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Catoosa County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Charlton County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Chatham County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Chattahoochee County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Chattooga County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Cherokee County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Clarke County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Clay County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Clayton County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Clinch County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Cobb County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Coffee County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Colquitt County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Columbia County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Cook County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Coweta County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Crawford County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Crisp County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Dade County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Dawson County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "DeKalb County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Decatur County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Dodge County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Dooly County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Dougherty County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Douglas County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Early County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Effingham County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Elbert County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Emanuel County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Evans County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Fannin County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Fayette County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Floyd County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Forsyth County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Franklin County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Fulton County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Gilmer County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Glascock County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Glynn County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Gordon County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Grady County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Greene County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Gwinnett County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Habersham County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Hall County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Hancock County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Haralson County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Harris County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Hart County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Heard County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Henry County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Houston County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Irwin County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Jackson County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Jasper County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Jeff Davis County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Jefferson County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Jenkins County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Johnson County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Jones County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Lamar County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Lanier County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Laurens County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Lee County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Liberty County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Lincoln County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Long County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Lowndes County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Lumpkin County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Macon County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Madison County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Marion County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "McDuffie County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "McIntosh County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Meriwether County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Miller County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Mitchell County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Monroe County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Montgomery County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Morgan County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Murray County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Muscogee County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Newton County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Oconee County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Oglethorpe County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Paulding County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Peach County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Pickens County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Pierce County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Pike County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Polk County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Pulaski County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Putnam County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Rabun County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Randolph County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Richmond County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Rockdale County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Schley County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Screven County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Seminole County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Spalding County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Stephens County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Stewart County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Sumter County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Talbot County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Taliaferro County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Tattnall County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Taylor County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Telfair County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Terrell County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Thomas County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Tift County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Toombs County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Towns County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Treutlen County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Troup County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Turner County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Twiggs County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Union County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Upson County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Walker County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Walton County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Ware County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Warren County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Washington County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Wayne County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Wheeler County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "White County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Whitfield County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Wilcox County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Wilkes County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Wilkinson County (GA)",
+      "type": "county"
+    },
+    {
+      "label": "Worth County (GA)",
+      "type": "county"
+    }
+  ],
+  "cities": [
+    {
+      "label": "Abbeville (GA)",
+      "type": "city",
+      "county": "Wilcox County"
+    },
+    {
+      "label": "Acworth (GA)",
+      "type": "city",
+      "county": "Cobb County"
+    },
+    {
+      "label": "Adairsville (GA)",
+      "type": "city",
+      "county": "Bartow County"
+    },
+    {
+      "label": "Adel (GA)",
+      "type": "city",
+      "county": "Cook County"
+    },
+    {
+      "label": "Adrian (GA)",
+      "type": "city",
+      "county": "Johnson County"
+    },
+    {
+      "label": "Ailey (GA)",
+      "type": "city",
+      "county": "Montgomery County"
+    },
+    {
+      "label": "Alamo (GA)",
+      "type": "city",
+      "county": "Wheeler County"
+    },
+    {
+      "label": "Alapaha (GA)",
+      "type": "city",
+      "county": "Berrien County"
+    },
+    {
+      "label": "Albany (GA)",
+      "type": "city",
+      "county": "Dougherty County"
+    },
+    {
+      "label": "Aldora (GA)",
+      "type": "city",
+      "county": "Lamar County"
+    },
+    {
+      "label": "Allenhurst (GA)",
+      "type": "city",
+      "county": "Liberty County"
+    },
+    {
+      "label": "Allentown (GA)",
+      "type": "city",
+      "county": "Wilkinson County"
+    },
+    {
+      "label": "Alma (GA)",
+      "type": "city",
+      "county": "Bacon County"
+    },
+    {
+      "label": "Alpharetta (GA)",
+      "type": "city",
+      "county": "Fulton County"
+    },
+    {
+      "label": "Alston (GA)",
+      "type": "city",
+      "county": "Montgomery County"
+    },
+    {
+      "label": "Alto (GA)",
+      "type": "city",
+      "county": "Banks County"
+    },
+    {
+      "label": "Ambrose (GA)",
+      "type": "city",
+      "county": "Coffee County"
+    },
+    {
+      "label": "Americus (GA)",
+      "type": "city",
+      "county": "Sumter County"
+    },
+    {
+      "label": "Andersonville (GA)",
+      "type": "city",
+      "county": "Sumter County"
+    },
+    {
+      "label": "Antioch (GA)",
+      "type": "city",
+      "county": "Harris County"
+    },
+    {
+      "label": "Appling (GA)",
+      "type": "city",
+      "county": "Columbia County"
+    },
+    {
+      "label": "Arabi (GA)",
+      "type": "city",
+      "county": "Crisp County"
+    },
+    {
+      "label": "Aragon (GA)",
+      "type": "city",
+      "county": "Polk County"
+    },
+    {
+      "label": "Arcade (GA)",
+      "type": "city",
+      "county": "Jackson County"
+    },
+    {
+      "label": "Argyle (GA)",
+      "type": "city",
+      "county": "Clinch County"
+    },
+    {
+      "label": "Arlington (GA)",
+      "type": "city",
+      "county": "Calhoun County"
+    },
+    {
+      "label": "Arnoldsville (GA)",
+      "type": "city",
+      "county": "Oglethorpe County"
+    },
+    {
+      "label": "Ashburn (GA)",
+      "type": "city",
+      "county": "Turner County"
+    },
+    {
+      "label": "Athens (GA)",
+      "type": "city",
+      "county": "Clarke County"
+    },
+    {
+      "label": "Atlanta (GA)",
+      "type": "city",
+      "county": "Fulton County"
+    },
+    {
+      "label": "Attapulgus (GA)",
+      "type": "city",
+      "county": "Decatur County"
+    },
+    {
+      "label": "Auburn (GA)",
+      "type": "city",
+      "county": "Barrow County"
+    },
+    {
+      "label": "Augusta (GA)",
+      "type": "city",
+      "county": "Richmond County"
+    },
+    {
+      "label": "Austell (GA)",
+      "type": "city",
+      "county": "Cobb County"
+    },
+    {
+      "label": "Avalon (GA)",
+      "type": "city",
+      "county": "Stephens County"
+    },
+    {
+      "label": "Avera (GA)",
+      "type": "city",
+      "county": "Jefferson County"
+    },
+    {
+      "label": "Avondale Estates (GA)",
+      "type": "city",
+      "county": "DeKalb County"
+    },
+    {
+      "label": "Axson (GA)",
+      "type": "city",
+      "county": "Atkinson County"
+    },
+    {
+      "label": "Baconton (GA)",
+      "type": "city",
+      "county": "Mitchell County"
+    },
+    {
+      "label": "Bainbridge (GA)",
+      "type": "city",
+      "county": "Decatur County"
+    },
+    {
+      "label": "Baldwin (GA)",
+      "type": "city",
+      "county": "Habersham County"
+    },
+    {
+      "label": "Ball Ground (GA)",
+      "type": "city",
+      "county": "Cherokee County"
+    },
+    {
+      "label": "Barnesville (GA)",
+      "type": "city",
+      "county": "Lamar County"
+    },
+    {
+      "label": "Bartow (GA)",
+      "type": "city",
+      "county": "Jefferson County"
+    },
+    {
+      "label": "Barwick (GA)",
+      "type": "city",
+      "county": "Brooks County"
+    },
+    {
+      "label": "Baxley (GA)",
+      "type": "city",
+      "county": "Appling County"
+    },
+    {
+      "label": "Bellville (GA)",
+      "type": "city",
+      "county": "Evans County"
+    },
+    {
+      "label": "Belvedere Park (GA)",
+      "type": "city",
+      "county": "DeKalb County"
+    },
+    {
+      "label": "Bemiss (GA)",
+      "type": "city",
+      "county": "Lowndes County"
+    },
+    {
+      "label": "Berkeley Lake (GA)",
+      "type": "city",
+      "county": "Gwinnett County"
+    },
+    {
+      "label": "Berlin (GA)",
+      "type": "city",
+      "county": "Colquitt County"
+    },
+    {
+      "label": "Berry College (GA)",
+      "type": "city",
+      "county": "Floyd County"
+    },
+    {
+      "label": "Bethlehem (GA)",
+      "type": "city",
+      "county": "Barrow County"
+    },
+    {
+      "label": "Between (GA)",
+      "type": "city",
+      "county": "Walton County"
+    },
+    {
+      "label": "Bishop (GA)",
+      "type": "city",
+      "county": "Oconee County"
+    },
+    {
+      "label": "Blackshear (GA)",
+      "type": "city",
+      "county": "Pierce County"
+    },
+    {
+      "label": "Blairsville (GA)",
+      "type": "city",
+      "county": "Union County"
+    },
+    {
+      "label": "Blakely (GA)",
+      "type": "city",
+      "county": "Early County"
+    },
+    {
+      "label": "Bloomingdale (GA)",
+      "type": "city",
+      "county": "Chatham County"
+    },
+    {
+      "label": "Blue Ridge (GA)",
+      "type": "city",
+      "county": "Fannin County"
+    },
+    {
+      "label": "Bluffton (GA)",
+      "type": "city",
+      "county": "Clay County"
+    },
+    {
+      "label": "Blythe (GA)",
+      "type": "city",
+      "county": "Richmond County"
+    },
+    {
+      "label": "Bogart (GA)",
+      "type": "city",
+      "county": "Oconee County"
+    },
+    {
+      "label": "Bolingbroke (GA)",
+      "type": "city",
+      "county": "Monroe County"
+    },
+    {
+      "label": "Bonanza (GA)",
+      "type": "city",
+      "county": "Clayton County"
+    },
+    {
+      "label": "Boston (GA)",
+      "type": "city",
+      "county": "Thomas County"
+    },
+    {
+      "label": "Bostwick (GA)",
+      "type": "city",
+      "county": "Morgan County"
+    },
+    {
+      "label": "Bowdon (GA)",
+      "type": "city",
+      "county": "Carroll County"
+    },
+    {
+      "label": "Bowersville (GA)",
+      "type": "city",
+      "county": "Hart County"
+    },
+    {
+      "label": "Bowman (GA)",
+      "type": "city",
+      "county": "Elbert County"
+    },
+    {
+      "label": "Box Springs (GA)",
+      "type": "city",
+      "county": "Talbot County"
+    },
+    {
+      "label": "Boykin (GA)",
+      "type": "city",
+      "county": "Miller County"
+    },
+    {
+      "label": "Braselton (GA)",
+      "type": "city",
+      "county": "Jackson County"
+    },
+    {
+      "label": "Braswell (GA)",
+      "type": "city",
+      "county": "Paulding County"
+    },
+    {
+      "label": "Bremen (GA)",
+      "type": "city",
+      "county": "Haralson County"
+    },
+    {
+      "label": "Brinson (GA)",
+      "type": "city",
+      "county": "Decatur County"
+    },
+    {
+      "label": "Bristol (GA)",
+      "type": "city",
+      "county": "Pierce County"
+    },
+    {
+      "label": "Bronwood (GA)",
+      "type": "city",
+      "county": "Terrell County"
+    },
+    {
+      "label": "Brookhaven (GA)",
+      "type": "city",
+      "county": "DeKalb County"
+    },
+    {
+      "label": "Brooklet (GA)",
+      "type": "city",
+      "county": "Bulloch County"
+    },
+    {
+      "label": "Brooks (GA)",
+      "type": "city",
+      "county": "Fayette County"
+    },
+    {
+      "label": "Broxton (GA)",
+      "type": "city",
+      "county": "Coffee County"
+    },
+    {
+      "label": "Brunswick (GA)",
+      "type": "city",
+      "county": "Glynn County"
+    },
+    {
+      "label": "Buchanan (GA)",
+      "type": "city",
+      "county": "Haralson County"
+    },
+    {
+      "label": "Buckhead (GA)",
+      "type": "city",
+      "county": "Morgan County"
+    },
+    {
+      "label": "Buena Vista (GA)",
+      "type": "city",
+      "county": "Marion County"
+    },
+    {
+      "label": "Buford (GA)",
+      "type": "city",
+      "county": "Gwinnett County"
+    },
+    {
+      "label": "Butler (GA)",
+      "type": "city",
+      "county": "Taylor County"
+    },
+    {
+      "label": "Byromville (GA)",
+      "type": "city",
+      "county": "Dooly County"
+    },
+    {
+      "label": "Byron (GA)",
+      "type": "city",
+      "county": "Peach County"
+    },
+    {
+      "label": "Cadwell (GA)",
+      "type": "city",
+      "county": "Laurens County"
+    },
+    {
+      "label": "Cairo (GA)",
+      "type": "city",
+      "county": "Grady County"
+    },
+    {
+      "label": "Calhoun (GA)",
+      "type": "city",
+      "county": "Gordon County"
+    },
+    {
+      "label": "Calvary (GA)",
+      "type": "city",
+      "county": "Grady County"
+    },
+    {
+      "label": "Camak (GA)",
+      "type": "city",
+      "county": "Warren County"
+    },
+    {
+      "label": "Camilla (GA)",
+      "type": "city",
+      "county": "Mitchell County"
+    },
+    {
+      "label": "Candler-McAfee (GA)",
+      "type": "city",
+      "county": "DeKalb County"
+    },
+    {
+      "label": "Canon (GA)",
+      "type": "city",
+      "county": "Franklin County"
+    },
+    {
+      "label": "Canoochee (GA)",
+      "type": "city",
+      "county": "Emanuel County"
+    },
+    {
+      "label": "Canton (GA)",
+      "type": "city",
+      "county": "Cherokee County"
+    },
+    {
+      "label": "Carl (GA)",
+      "type": "city",
+      "county": "Barrow County"
+    },
+    {
+      "label": "Carlton (GA)",
+      "type": "city",
+      "county": "Madison County"
+    },
+    {
+      "label": "Carnesville (GA)",
+      "type": "city",
+      "county": "Franklin County"
+    },
+    {
+      "label": "Carrollton (GA)",
+      "type": "city",
+      "county": "Carroll County"
+    },
+    {
+      "label": "Cartersville (GA)",
+      "type": "city",
+      "county": "Bartow County"
+    },
+    {
+      "label": "Cataula (GA)",
+      "type": "city",
+      "county": "Harris County"
+    },
+    {
+      "label": "Cave Spring (GA)",
+      "type": "city",
+      "county": "Floyd County"
+    },
+    {
+      "label": "Cecil (GA)",
+      "type": "city",
+      "county": "Cook County"
+    },
+    {
+      "label": "Cedar Springs (GA)",
+      "type": "city",
+      "county": "Early County"
+    },
+    {
+      "label": "Cedartown (GA)",
+      "type": "city",
+      "county": "Polk County"
+    },
+    {
+      "label": "Centerville (GA)",
+      "type": "city",
+      "county": "Houston County"
+    },
+    {
+      "label": "Centralhatchee (GA)",
+      "type": "city",
+      "county": "Heard County"
+    },
+    {
+      "label": "Chamblee (GA)",
+      "type": "city",
+      "county": "DeKalb County"
+    },
+    {
+      "label": "Chatsworth (GA)",
+      "type": "city",
+      "county": "Murray County"
+    },
+    {
+      "label": "Chattahoochee Hills (GA)",
+      "type": "city",
+      "county": "Fulton County"
+    },
+    {
+      "label": "Chattanooga Valley (GA)",
+      "type": "city",
+      "county": "Walker County"
+    },
+    {
+      "label": "Chauncey (GA)",
+      "type": "city",
+      "county": "Dodge County"
+    },
+    {
+      "label": "Cherry Log (GA)",
+      "type": "city",
+      "county": "Gilmer County"
+    },
+    {
+      "label": "Chester (GA)",
+      "type": "city",
+      "county": "Dodge County"
+    },
+    {
+      "label": "Chickamauga (GA)",
+      "type": "city",
+      "county": "Walker County"
+    },
+    {
+      "label": "Clarkesville (GA)",
+      "type": "city",
+      "county": "Habersham County"
+    },
+    {
+      "label": "Clarkston (GA)",
+      "type": "city",
+      "county": "DeKalb County"
+    },
+    {
+      "label": "Claxton (GA)",
+      "type": "city",
+      "county": "Evans County"
+    },
+    {
+      "label": "Clayton (GA)",
+      "type": "city",
+      "county": "Rabun County"
+    },
+    {
+      "label": "Clermont (GA)",
+      "type": "city",
+      "county": "Hall County"
+    },
+    {
+      "label": "Cleveland (GA)",
+      "type": "city",
+      "county": "White County"
+    },
+    {
+      "label": "Climax (GA)",
+      "type": "city",
+      "county": "Decatur County"
+    },
+    {
+      "label": "Clyattville (GA)",
+      "type": "city",
+      "county": "Lowndes County"
+    },
+    {
+      "label": "Cobbtown (GA)",
+      "type": "city",
+      "county": "Tattnall County"
+    },
+    {
+      "label": "Cochran (GA)",
+      "type": "city",
+      "county": "Bleckley County"
+    },
+    {
+      "label": "Cogdell (GA)",
+      "type": "city",
+      "county": "Clinch County"
+    },
+    {
+      "label": "Cohutta (GA)",
+      "type": "city",
+      "county": "Whitfield County"
+    },
+    {
+      "label": "Colbert (GA)",
+      "type": "city",
+      "county": "Madison County"
+    },
+    {
+      "label": "Coleman (GA)",
+      "type": "city",
+      "county": "Randolph County"
+    },
+    {
+      "label": "College Park (GA)",
+      "type": "city",
+      "county": "Fulton County"
+    },
+    {
+      "label": "Collins (GA)",
+      "type": "city",
+      "county": "Tattnall County"
+    },
+    {
+      "label": "Colquitt (GA)",
+      "type": "city",
+      "county": "Miller County"
+    },
+    {
+      "label": "Columbus (GA)",
+      "type": "city",
+      "county": "Muscogee County"
+    },
+    {
+      "label": "Comer (GA)",
+      "type": "city",
+      "county": "Madison County"
+    },
+    {
+      "label": "Commerce (GA)",
+      "type": "city",
+      "county": "Jackson County"
+    },
+    {
+      "label": "Concord (GA)",
+      "type": "city",
+      "county": "Pike County"
+    },
+    {
+      "label": "Conley (GA)",
+      "type": "city",
+      "county": "Clayton County"
+    },
+    {
+      "label": "Conyers (GA)",
+      "type": "city",
+      "county": "Rockdale County"
+    },
+    {
+      "label": "Coolidge (GA)",
+      "type": "city",
+      "county": "Thomas County"
+    },
+    {
+      "label": "Cordele (GA)",
+      "type": "city",
+      "county": "Crisp County"
+    },
+    {
+      "label": "Cornelia (GA)",
+      "type": "city",
+      "county": "Habersham County"
+    },
+    {
+      "label": "Country Club Estates (GA)",
+      "type": "city",
+      "county": "Glynn County"
+    },
+    {
+      "label": "Covington (GA)",
+      "type": "city",
+      "county": "Newton County"
+    },
+    {
+      "label": "Crawford (GA)",
+      "type": "city",
+      "county": "Oglethorpe County"
+    },
+    {
+      "label": "Crawfordville (GA)",
+      "type": "city",
+      "county": "Taliaferro County"
+    },
+    {
+      "label": "Crescent (GA)",
+      "type": "city",
+      "county": "McIntosh County"
+    },
+    {
+      "label": "Crooked Creek (GA)",
+      "type": "city",
+      "county": "Putnam County"
+    },
+    {
+      "label": "Culloden (GA)",
+      "type": "city",
+      "county": "Monroe County"
+    },
+    {
+      "label": "Cumming (GA)",
+      "type": "city",
+      "county": "Forsyth County"
+    },
+    {
+      "label": "Cusseta (GA)",
+      "type": "city",
+      "county": "Chattahoochee County"
+    },
+    {
+      "label": "Cuthbert (GA)",
+      "type": "city",
+      "county": "Randolph County"
+    },
+    {
+      "label": "Dacula (GA)",
+      "type": "city",
+      "county": "Gwinnett County"
+    },
+    {
+      "label": "Dahlonega (GA)",
+      "type": "city",
+      "county": "Lumpkin County"
+    },
+    {
+      "label": "Daisy (GA)",
+      "type": "city",
+      "county": "Evans County"
+    },
+    {
+      "label": "Dallas (GA)",
+      "type": "city",
+      "county": "Paulding County"
+    },
+    {
+      "label": "Dalton (GA)",
+      "type": "city",
+      "county": "Whitfield County"
+    },
+    {
+      "label": "Damascus (GA)",
+      "type": "city",
+      "county": "Early County"
+    },
+    {
+      "label": "Danielsville (GA)",
+      "type": "city",
+      "county": "Madison County"
+    },
+    {
+      "label": "Danville (GA)",
+      "type": "city",
+      "county": "Twiggs County"
+    },
+    {
+      "label": "Darien (GA)",
+      "type": "city",
+      "county": "McIntosh County"
+    },
+    {
+      "label": "Dasher (GA)",
+      "type": "city",
+      "county": "Lowndes County"
+    },
+    {
+      "label": "Davisboro (GA)",
+      "type": "city",
+      "county": "Washington County"
+    },
+    {
+      "label": "Dawson (GA)",
+      "type": "city",
+      "county": "Terrell County"
+    },
+    {
+      "label": "Dawsonville (GA)",
+      "type": "city",
+      "county": "Dawson County"
+    },
+    {
+      "label": "De Soto (GA)",
+      "type": "city",
+      "county": "Sumter County"
+    },
+    {
+      "label": "Dearing (GA)",
+      "type": "city",
+      "county": "McDuffie County"
+    },
+    {
+      "label": "Decatur (GA)",
+      "type": "city",
+      "county": "DeKalb County"
+    },
+    {
+      "label": "Deenwood (GA)",
+      "type": "city",
+      "county": "Ware County"
+    },
+    {
+      "label": "Deepstep (GA)",
+      "type": "city",
+      "county": "Washington County"
+    },
+    {
+      "label": "Demorest (GA)",
+      "type": "city",
+      "county": "Habersham County"
+    },
+    {
+      "label": "Denton (GA)",
+      "type": "city",
+      "county": "Jeff Davis County"
+    },
+    {
+      "label": "Dewy Rose (GA)",
+      "type": "city",
+      "county": "Elbert County"
+    },
+    {
+      "label": "Dexter (GA)",
+      "type": "city",
+      "county": "Laurens County"
+    },
+    {
+      "label": "Dillard (GA)",
+      "type": "city",
+      "county": "Rabun County"
+    },
+    {
+      "label": "Dixie (GA)",
+      "type": "city",
+      "county": "Brooks County"
+    },
+    {
+      "label": "Dixie Union (GA)",
+      "type": "city",
+      "county": "Ware County"
+    },
+    {
+      "label": "Dock Junction (GA)",
+      "type": "city",
+      "county": "Glynn County"
+    },
+    {
+      "label": "Doerun (GA)",
+      "type": "city",
+      "county": "Colquitt County"
+    },
+    {
+      "label": "Donalsonville (GA)",
+      "type": "city",
+      "county": "Seminole County"
+    },
+    {
+      "label": "Dooling (GA)",
+      "type": "city",
+      "county": "Dooly County"
+    },
+    {
+      "label": "Doraville (GA)",
+      "type": "city",
+      "county": "DeKalb County"
+    },
+    {
+      "label": "Douglas (GA)",
+      "type": "city",
+      "county": "Coffee County"
+    },
+    {
+      "label": "Douglasville (GA)",
+      "type": "city",
+      "county": "Douglas County"
+    },
+    {
+      "label": "Druid Hills (GA)",
+      "type": "city",
+      "county": "DeKalb County"
+    },
+    {
+      "label": "Du Pont (GA)",
+      "type": "city",
+      "county": "Clinch County"
+    },
+    {
+      "label": "Dublin (GA)",
+      "type": "city",
+      "county": "Laurens County"
+    },
+    {
+      "label": "Dudley (GA)",
+      "type": "city",
+      "county": "Laurens County"
+    },
+    {
+      "label": "Duluth (GA)",
+      "type": "city",
+      "county": "Gwinnett County"
+    },
+    {
+      "label": "Dunwoody (GA)",
+      "type": "city",
+      "county": "DeKalb County"
+    },
+    {
+      "label": "Dutch Island (GA)",
+      "type": "city",
+      "county": "Chatham County"
+    },
+    {
+      "label": "Eagle Grove (GA)",
+      "type": "city",
+      "county": "Hart County"
+    },
+    {
+      "label": "East Dublin (GA)",
+      "type": "city",
+      "county": "Laurens County"
+    },
+    {
+      "label": "East Ellijay (GA)",
+      "type": "city",
+      "county": "Gilmer County"
+    },
+    {
+      "label": "East Griffin (GA)",
+      "type": "city",
+      "county": "Spalding County"
+    },
+    {
+      "label": "East Newnan (GA)",
+      "type": "city",
+      "county": "Coweta County"
+    },
+    {
+      "label": "East Point (GA)",
+      "type": "city",
+      "county": "Fulton County"
+    },
+    {
+      "label": "Eastman (GA)",
+      "type": "city",
+      "county": "Dodge County"
+    },
+    {
+      "label": "Eatonton (GA)",
+      "type": "city",
+      "county": "Putnam County"
+    },
+    {
+      "label": "Edge Hill (GA)",
+      "type": "city",
+      "county": "Glascock County"
+    },
+    {
+      "label": "Edison (GA)",
+      "type": "city",
+      "county": "Calhoun County"
+    },
+    {
+      "label": "Elberton (GA)",
+      "type": "city",
+      "county": "Elbert County"
+    },
+    {
+      "label": "Ellaville (GA)",
+      "type": "city",
+      "county": "Schley County"
+    },
+    {
+      "label": "Ellenton (GA)",
+      "type": "city",
+      "county": "Colquitt County"
+    },
+    {
+      "label": "Ellerslie (GA)",
+      "type": "city",
+      "county": "Harris County"
+    },
+    {
+      "label": "Ellijay (GA)",
+      "type": "city",
+      "county": "Gilmer County"
+    },
+    {
+      "label": "Emerson (GA)",
+      "type": "city",
+      "county": "Bartow County"
+    },
+    {
+      "label": "Empire (GA)",
+      "type": "city",
+      "county": "Dodge County"
+    },
+    {
+      "label": "Enigma (GA)",
+      "type": "city",
+      "county": "Berrien County"
+    },
+    {
+      "label": "Ephesus (GA)",
+      "type": "city",
+      "county": "Heard County"
+    },
+    {
+      "label": "Epworth (GA)",
+      "type": "city",
+      "county": "Fannin County"
+    },
+    {
+      "label": "Eton (GA)",
+      "type": "city",
+      "county": "Murray County"
+    },
+    {
+      "label": "Euharlee (GA)",
+      "type": "city",
+      "county": "Bartow County"
+    },
+    {
+      "label": "Eulonia (GA)",
+      "type": "city",
+      "county": "McIntosh County"
+    },
+    {
+      "label": "Evans (GA)",
+      "type": "city",
+      "county": "Columbia County"
+    },
+    {
+      "label": "Everett (GA)",
+      "type": "city",
+      "county": "Glynn County"
+    },
+    {
+      "label": "Experiment (GA)",
+      "type": "city",
+      "county": "Spalding County"
+    },
+    {
+      "label": "Faceville (GA)",
+      "type": "city",
+      "county": "Decatur County"
+    },
+    {
+      "label": "Fair Oaks (GA)",
+      "type": "city",
+      "county": "Cobb County"
+    },
+    {
+      "label": "Fairburn (GA)",
+      "type": "city",
+      "county": "Fulton County"
+    },
+    {
+      "label": "Fairfield Plantation (GA)",
+      "type": "city",
+      "county": "Carroll County"
+    },
+    {
+      "label": "Fairmount (GA)",
+      "type": "city",
+      "county": "Gordon County"
+    },
+    {
+      "label": "Fairplay (GA)",
+      "type": "city",
+      "county": "Douglas County"
+    },
+    {
+      "label": "Fairview (GA)",
+      "type": "city",
+      "county": "Walker County"
+    },
+    {
+      "label": "Fargo (GA)",
+      "type": "city",
+      "county": "Clinch County"
+    },
+    {
+      "label": "Fayetteville (GA)",
+      "type": "city",
+      "county": "Fayette County"
+    },
+    {
+      "label": "Fitzgerald (GA)",
+      "type": "city",
+      "county": "Ben Hill County"
+    },
+    {
+      "label": "Flemington (GA)",
+      "type": "city",
+      "county": "Liberty County"
+    },
+    {
+      "label": "Flovilla (GA)",
+      "type": "city",
+      "county": "Butts County"
+    },
+    {
+      "label": "Flowery Branch (GA)",
+      "type": "city",
+      "county": "Hall County"
+    },
+    {
+      "label": "Folkston (GA)",
+      "type": "city",
+      "county": "Charlton County"
+    },
+    {
+      "label": "Forest Park (GA)",
+      "type": "city",
+      "county": "Clayton County"
+    },
+    {
+      "label": "Forsyth (GA)",
+      "type": "city",
+      "county": "Monroe County"
+    },
+    {
+      "label": "Fort Gaines (GA)",
+      "type": "city",
+      "county": "Clay County"
+    },
+    {
+      "label": "Fort Oglethorpe (GA)",
+      "type": "city",
+      "county": "Catoosa County"
+    },
+    {
+      "label": "Fort Stewart (GA)",
+      "type": "city",
+      "county": "Liberty County"
+    },
+    {
+      "label": "Fort Valley (GA)",
+      "type": "city",
+      "county": "Peach County"
+    },
+    {
+      "label": "Franklin (GA)",
+      "type": "city",
+      "county": "Heard County"
+    },
+    {
+      "label": "Franklin Springs (GA)",
+      "type": "city",
+      "county": "Franklin County"
+    },
+    {
+      "label": "Funston (GA)",
+      "type": "city",
+      "county": "Colquitt County"
+    },
+    {
+      "label": "Gainesville (GA)",
+      "type": "city",
+      "county": "Hall County"
+    },
+    {
+      "label": "Garden City (GA)",
+      "type": "city",
+      "county": "Chatham County"
+    },
+    {
+      "label": "Gardi (GA)",
+      "type": "city",
+      "county": "Wayne County"
+    },
+    {
+      "label": "Garfield (GA)",
+      "type": "city",
+      "county": "Emanuel County"
+    },
+    {
+      "label": "Gay (GA)",
+      "type": "city",
+      "county": "Meriwether County"
+    },
+    {
+      "label": "Geneva (GA)",
+      "type": "city",
+      "county": "Talbot County"
+    },
+    {
+      "label": "Georgetown (GA)",
+      "type": "city",
+      "county": "Chatham County"
+    },
+    {
+      "label": "Gibson (GA)",
+      "type": "city",
+      "county": "Glascock County"
+    },
+    {
+      "label": "Gillsville (GA)",
+      "type": "city",
+      "county": "Hall County"
+    },
+    {
+      "label": "Girard (GA)",
+      "type": "city",
+      "county": "Burke County"
+    },
+    {
+      "label": "Glenn (GA)",
+      "type": "city",
+      "county": "Heard County"
+    },
+    {
+      "label": "Glennville (GA)",
+      "type": "city",
+      "county": "Tattnall County"
+    },
+    {
+      "label": "Glenwood (GA)",
+      "type": "city",
+      "county": "Wheeler County"
+    },
+    {
+      "label": "Godfrey (GA)",
+      "type": "city",
+      "county": "Morgan County"
+    },
+    {
+      "label": "Good Hope (GA)",
+      "type": "city",
+      "county": "Walton County"
+    },
+    {
+      "label": "Gordon (GA)",
+      "type": "city",
+      "county": "Wilkinson County"
+    },
+    {
+      "label": "Gough (GA)",
+      "type": "city",
+      "county": "Burke County"
+    },
+    {
+      "label": "Graham (GA)",
+      "type": "city",
+      "county": "Appling County"
+    },
+    {
+      "label": "Grantville (GA)",
+      "type": "city",
+      "county": "Coweta County"
+    },
+    {
+      "label": "Gray (GA)",
+      "type": "city",
+      "county": "Jones County"
+    },
+    {
+      "label": "Grayson (GA)",
+      "type": "city",
+      "county": "Gwinnett County"
+    },
+    {
+      "label": "Greensboro (GA)",
+      "type": "city",
+      "county": "Greene County"
+    },
+    {
+      "label": "Greenville (GA)",
+      "type": "city",
+      "county": "Meriwether County"
+    },
+    {
+      "label": "Griffin (GA)",
+      "type": "city",
+      "county": "Spalding County"
+    },
+    {
+      "label": "Grovetown (GA)",
+      "type": "city",
+      "county": "Columbia County"
+    },
+    {
+      "label": "Gumbranch (GA)",
+      "type": "city",
+      "county": "Liberty County"
+    },
+    {
+      "label": "Gumlog (GA)",
+      "type": "city",
+      "county": "Franklin County"
+    },
+    {
+      "label": "Guyton (GA)",
+      "type": "city",
+      "county": "Effingham County"
+    },
+    {
+      "label": "Hagan (GA)",
+      "type": "city",
+      "county": "Evans County"
+    },
+    {
+      "label": "Hahira (GA)",
+      "type": "city",
+      "county": "Lowndes County"
+    },
+    {
+      "label": "Hamilton (GA)",
+      "type": "city",
+      "county": "Harris County"
+    },
+    {
+      "label": "Hampton (GA)",
+      "type": "city",
+      "county": "Henry County"
+    },
+    {
+      "label": "Hannahs Mill (GA)",
+      "type": "city",
+      "county": "Upson County"
+    },
+    {
+      "label": "Hapeville (GA)",
+      "type": "city",
+      "county": "Fulton County"
+    },
+    {
+      "label": "Haralson (GA)",
+      "type": "city",
+      "county": "Coweta County"
+    },
+    {
+      "label": "Hardwick (GA)",
+      "type": "city",
+      "county": "Baldwin County"
+    },
+    {
+      "label": "Harlem (GA)",
+      "type": "city",
+      "county": "Columbia County"
+    },
+    {
+      "label": "Harrison (GA)",
+      "type": "city",
+      "county": "Washington County"
+    },
+    {
+      "label": "Hartwell (GA)",
+      "type": "city",
+      "county": "Hart County"
+    },
+    {
+      "label": "Hawkinsville (GA)",
+      "type": "city",
+      "county": "Pulaski County"
+    },
+    {
+      "label": "Hazlehurst (GA)",
+      "type": "city",
+      "county": "Jeff Davis County"
+    },
+    {
+      "label": "Helen (GA)",
+      "type": "city",
+      "county": "White County"
+    },
+    {
+      "label": "Henderson (GA)",
+      "type": "city",
+      "county": "Chatham County"
+    },
+    {
+      "label": "Hephzibah (GA)",
+      "type": "city",
+      "county": "Richmond County"
+    },
+    {
+      "label": "Heron Bay (GA)",
+      "type": "city",
+      "county": "Henry County"
+    },
+    {
+      "label": "Hiawassee (GA)",
+      "type": "city",
+      "county": "Towns County"
+    },
+    {
+      "label": "Hickox (GA)",
+      "type": "city",
+      "county": "Brantley County"
+    },
+    {
+      "label": "Higgston (GA)",
+      "type": "city",
+      "county": "Montgomery County"
+    },
+    {
+      "label": "Hilltop (GA)",
+      "type": "city",
+      "county": "Pike County"
+    },
+    {
+      "label": "Hiltonia (GA)",
+      "type": "city",
+      "county": "Screven County"
+    },
+    {
+      "label": "Hinesville (GA)",
+      "type": "city",
+      "county": "Liberty County"
+    },
+    {
+      "label": "Hiram (GA)",
+      "type": "city",
+      "county": "Paulding County"
+    },
+    {
+      "label": "Hoboken (GA)",
+      "type": "city",
+      "county": "Brantley County"
+    },
+    {
+      "label": "Hogansville (GA)",
+      "type": "city",
+      "county": "Troup County"
+    },
+    {
+      "label": "Holly Springs (GA)",
+      "type": "city",
+      "county": "Cherokee County"
+    },
+    {
+      "label": "Homeland (GA)",
+      "type": "city",
+      "county": "Charlton County"
+    },
+    {
+      "label": "Homer (GA)",
+      "type": "city",
+      "county": "Banks County"
+    },
+    {
+      "label": "Homerville (GA)",
+      "type": "city",
+      "county": "Clinch County"
+    },
+    {
+      "label": "Hortense (GA)",
+      "type": "city",
+      "county": "Brantley County"
+    },
+    {
+      "label": "Hoschton (GA)",
+      "type": "city",
+      "county": "Jackson County"
+    },
+    {
+      "label": "Howard (GA)",
+      "type": "city",
+      "county": "Taylor County"
+    },
+    {
+      "label": "Hull (GA)",
+      "type": "city",
+      "county": "Madison County"
+    },
+    {
+      "label": "Ideal (GA)",
+      "type": "city",
+      "county": "Macon County"
+    },
+    {
+      "label": "Ila (GA)",
+      "type": "city",
+      "county": "Madison County"
+    },
+    {
+      "label": "Indian Springs (GA)",
+      "type": "city",
+      "county": "Catoosa County"
+    },
+    {
+      "label": "Iron City (GA)",
+      "type": "city",
+      "county": "Seminole County"
+    },
+    {
+      "label": "Irondale (GA)",
+      "type": "city",
+      "county": "Clayton County"
+    },
+    {
+      "label": "Irwinton (GA)",
+      "type": "city",
+      "county": "Wilkinson County"
+    },
+    {
+      "label": "Isle of Hope (GA)",
+      "type": "city",
+      "county": "Chatham County"
+    },
+    {
+      "label": "Ivey (GA)",
+      "type": "city",
+      "county": "Wilkinson County"
+    },
+    {
+      "label": "Jackson (GA)",
+      "type": "city",
+      "county": "Butts County"
+    },
+    {
+      "label": "Jacksonville (GA)",
+      "type": "city",
+      "county": "Telfair County"
+    },
+    {
+      "label": "Jakin (GA)",
+      "type": "city",
+      "county": "Early County"
+    },
+    {
+      "label": "Jasper (GA)",
+      "type": "city",
+      "county": "Pickens County"
+    },
+    {
+      "label": "Jefferson (GA)",
+      "type": "city",
+      "county": "Jackson County"
+    },
+    {
+      "label": "Jeffersonville (GA)",
+      "type": "city",
+      "county": "Twiggs County"
+    },
+    {
+      "label": "Jekyll Island (GA)",
+      "type": "city",
+      "county": "Glynn County"
+    },
+    {
+      "label": "Jenkinsburg (GA)",
+      "type": "city",
+      "county": "Butts County"
+    },
+    {
+      "label": "Jersey (GA)",
+      "type": "city",
+      "county": "Walton County"
+    },
+    {
+      "label": "Jesup (GA)",
+      "type": "city",
+      "county": "Wayne County"
+    },
+    {
+      "label": "Johns Creek (GA)",
+      "type": "city",
+      "county": "Fulton County"
+    },
+    {
+      "label": "Jonesboro (GA)",
+      "type": "city",
+      "county": "Clayton County"
+    },
+    {
+      "label": "Juliette (GA)",
+      "type": "city",
+      "county": "Monroe County"
+    },
+    {
+      "label": "Junction City (GA)",
+      "type": "city",
+      "county": "Talbot County"
+    },
+    {
+      "label": "Kennesaw (GA)",
+      "type": "city",
+      "county": "Cobb County"
+    },
+    {
+      "label": "Kennesaw State University (GA)",
+      "type": "city",
+      "county": "Cobb County"
+    },
+    {
+      "label": "Keysville (GA)",
+      "type": "city",
+      "county": "Burke County"
+    },
+    {
+      "label": "Kings Bay Base (GA)",
+      "type": "city",
+      "county": "Camden County"
+    },
+    {
+      "label": "Kingsland (GA)",
+      "type": "city",
+      "county": "Camden County"
+    },
+    {
+      "label": "Kingston (GA)",
+      "type": "city",
+      "county": "Bartow County"
+    },
+    {
+      "label": "Kite (GA)",
+      "type": "city",
+      "county": "Johnson County"
+    },
+    {
+      "label": "Knoxville (GA)",
+      "type": "city",
+      "county": "Crawford County"
+    },
+    {
+      "label": "LaFayette (GA)",
+      "type": "city",
+      "county": "Walker County"
+    },
+    {
+      "label": "LaGrange (GA)",
+      "type": "city",
+      "county": "Troup County"
+    },
+    {
+      "label": "Lake City (GA)",
+      "type": "city",
+      "county": "Clayton County"
+    },
+    {
+      "label": "Lake Park (GA)",
+      "type": "city",
+      "county": "Lowndes County"
+    },
+    {
+      "label": "Lakeland (GA)",
+      "type": "city",
+      "county": "Lanier County"
+    },
+    {
+      "label": "Lakeview (GA)",
+      "type": "city",
+      "county": "Catoosa County"
+    },
+    {
+      "label": "Lakeview Estates (GA)",
+      "type": "city",
+      "county": "Rockdale County"
+    },
+    {
+      "label": "Lavonia (GA)",
+      "type": "city",
+      "county": "Franklin County"
+    },
+    {
+      "label": "Lawrenceville (GA)",
+      "type": "city",
+      "county": "Gwinnett County"
+    },
+    {
+      "label": "Leary (GA)",
+      "type": "city",
+      "county": "Calhoun County"
+    },
+    {
+      "label": "Leesburg (GA)",
+      "type": "city",
+      "county": "Lee County"
+    },
+    {
+      "label": "Lenox (GA)",
+      "type": "city",
+      "county": "Cook County"
+    },
+    {
+      "label": "Leslie (GA)",
+      "type": "city",
+      "county": "Sumter County"
+    },
+    {
+      "label": "Lexington (GA)",
+      "type": "city",
+      "county": "Oglethorpe County"
+    },
+    {
+      "label": "Lilburn (GA)",
+      "type": "city",
+      "county": "Gwinnett County"
+    },
+    {
+      "label": "Lilly (GA)",
+      "type": "city",
+      "county": "Dooly County"
+    },
+    {
+      "label": "Lincoln Park (GA)",
+      "type": "city",
+      "county": "Upson County"
+    },
+    {
+      "label": "Lincolnton (GA)",
+      "type": "city",
+      "county": "Lincoln County"
+    },
+    {
+      "label": "Lindale (GA)",
+      "type": "city",
+      "county": "Floyd County"
+    },
+    {
+      "label": "Lithia Springs (GA)",
+      "type": "city",
+      "county": "Douglas County"
+    },
+    {
+      "label": "Lithonia (GA)",
+      "type": "city",
+      "county": "DeKalb County"
+    },
+    {
+      "label": "Locust Grove (GA)",
+      "type": "city",
+      "county": "Henry County"
+    },
+    {
+      "label": "Loganville (GA)",
+      "type": "city",
+      "county": "Walton County"
+    },
+    {
+      "label": "Lone Oak (GA)",
+      "type": "city",
+      "county": "Meriwether County"
+    },
+    {
+      "label": "Lookout Mountain (GA)",
+      "type": "city",
+      "county": "Walker County"
+    },
+    {
+      "label": "Louisville (GA)",
+      "type": "city",
+      "county": "Jefferson County"
+    },
+    {
+      "label": "Lovejoy (GA)",
+      "type": "city",
+      "county": "Clayton County"
+    },
+    {
+      "label": "Ludowici (GA)",
+      "type": "city",
+      "county": "Long County"
+    },
+    {
+      "label": "Lula (GA)",
+      "type": "city",
+      "county": "Hall County"
+    },
+    {
+      "label": "Lumber City (GA)",
+      "type": "city",
+      "county": "Telfair County"
+    },
+    {
+      "label": "Lumpkin (GA)",
+      "type": "city",
+      "county": "Stewart County"
+    },
+    {
+      "label": "Luthersville (GA)",
+      "type": "city",
+      "county": "Meriwether County"
+    },
+    {
+      "label": "Lyerly (GA)",
+      "type": "city",
+      "county": "Chattooga County"
+    },
+    {
+      "label": "Lyons (GA)",
+      "type": "city",
+      "county": "Toombs County"
+    },
+    {
+      "label": "Mableton (GA)",
+      "type": "city",
+      "county": "Cobb County"
+    },
+    {
+      "label": "Macon (GA)",
+      "type": "city",
+      "county": "Bibb County"
+    },
+    {
+      "label": "Madison (GA)",
+      "type": "city",
+      "county": "Morgan County"
+    },
+    {
+      "label": "Manassas (GA)",
+      "type": "city",
+      "county": "Tattnall County"
+    },
+    {
+      "label": "Manchester (GA)",
+      "type": "city",
+      "county": "Meriwether County"
+    },
+    {
+      "label": "Manor (GA)",
+      "type": "city",
+      "county": "Ware County"
+    },
+    {
+      "label": "Mansfield (GA)",
+      "type": "city",
+      "county": "Newton County"
+    },
+    {
+      "label": "Marietta (GA)",
+      "type": "city",
+      "county": "Cobb County"
+    },
+    {
+      "label": "Marshallville (GA)",
+      "type": "city",
+      "county": "Macon County"
+    },
+    {
+      "label": "Martin (GA)",
+      "type": "city",
+      "county": "Stephens County"
+    },
+    {
+      "label": "Martinez (GA)",
+      "type": "city",
+      "county": "Columbia County"
+    },
+    {
+      "label": "Matthews (GA)",
+      "type": "city",
+      "county": "Jefferson County"
+    },
+    {
+      "label": "Maxeys (GA)",
+      "type": "city",
+      "county": "Oglethorpe County"
+    },
+    {
+      "label": "Maysville (GA)",
+      "type": "city",
+      "county": "Jackson County"
+    },
+    {
+      "label": "McCaysville (GA)",
+      "type": "city",
+      "county": "Fannin County"
+    },
+    {
+      "label": "McDonough (GA)",
+      "type": "city",
+      "county": "Henry County"
+    },
+    {
+      "label": "McIntyre (GA)",
+      "type": "city",
+      "county": "Wilkinson County"
+    },
+    {
+      "label": "McRae-Helena (GA)",
+      "type": "city",
+      "county": "Telfair County"
+    },
+    {
+      "label": "Meansville (GA)",
+      "type": "city",
+      "county": "Pike County"
+    },
+    {
+      "label": "Meigs (GA)",
+      "type": "city",
+      "county": "Thomas County"
+    },
+    {
+      "label": "Mendes (GA)",
+      "type": "city",
+      "county": "Tattnall County"
+    },
+    {
+      "label": "Menlo (GA)",
+      "type": "city",
+      "county": "Chattooga County"
+    },
+    {
+      "label": "Mershon (GA)",
+      "type": "city",
+      "county": "Pierce County"
+    },
+    {
+      "label": "Metter (GA)",
+      "type": "city",
+      "county": "Candler County"
+    },
+    {
+      "label": "Midville (GA)",
+      "type": "city",
+      "county": "Burke County"
+    },
+    {
+      "label": "Midway (GA)",
+      "type": "city",
+      "county": "Liberty County"
+    },
+    {
+      "label": "Milan (GA)",
+      "type": "city",
+      "county": "Telfair County"
+    },
+    {
+      "label": "Milledgeville (GA)",
+      "type": "city",
+      "county": "Baldwin County"
+    },
+    {
+      "label": "Millen (GA)",
+      "type": "city",
+      "county": "Jenkins County"
+    },
+    {
+      "label": "Millwood (GA)",
+      "type": "city",
+      "county": "Ware County"
+    },
+    {
+      "label": "Milner (GA)",
+      "type": "city",
+      "county": "Lamar County"
+    },
+    {
+      "label": "Milstead (GA)",
+      "type": "city",
+      "county": "Rockdale County"
+    },
+    {
+      "label": "Milton (GA)",
+      "type": "city",
+      "county": "Fulton County"
+    },
+    {
+      "label": "Mineral Bluff (GA)",
+      "type": "city",
+      "county": "Fannin County"
+    },
+    {
+      "label": "Mitchell (GA)",
+      "type": "city",
+      "county": "Glascock County"
+    },
+    {
+      "label": "Molena (GA)",
+      "type": "city",
+      "county": "Pike County"
+    },
+    {
+      "label": "Monroe (GA)",
+      "type": "city",
+      "county": "Walton County"
+    },
+    {
+      "label": "Montezuma (GA)",
+      "type": "city",
+      "county": "Macon County"
+    },
+    {
+      "label": "Montgomery (GA)",
+      "type": "city",
+      "county": "Chatham County"
+    },
+    {
+      "label": "Monticello (GA)",
+      "type": "city",
+      "county": "Jasper County"
+    },
+    {
+      "label": "Montrose (GA)",
+      "type": "city",
+      "county": "Laurens County"
+    },
+    {
+      "label": "Moody AFB (GA)",
+      "type": "city",
+      "county": "Lowndes County"
+    },
+    {
+      "label": "Moreland (GA)",
+      "type": "city",
+      "county": "Coweta County"
+    },
+    {
+      "label": "Morgan (GA)",
+      "type": "city",
+      "county": "Calhoun County"
+    },
+    {
+      "label": "Morganton (GA)",
+      "type": "city",
+      "county": "Fannin County"
+    },
+    {
+      "label": "Morrow (GA)",
+      "type": "city",
+      "county": "Clayton County"
+    },
+    {
+      "label": "Morven (GA)",
+      "type": "city",
+      "county": "Brooks County"
+    },
+    {
+      "label": "Moultrie (GA)",
+      "type": "city",
+      "county": "Colquitt County"
+    },
+    {
+      "label": "Mount Airy (GA)",
+      "type": "city",
+      "county": "Habersham County"
+    },
+    {
+      "label": "Mount Vernon (GA)",
+      "type": "city",
+      "county": "Montgomery County"
+    },
+    {
+      "label": "Mount Zion (GA)",
+      "type": "city",
+      "county": "Carroll County"
+    },
+    {
+      "label": "Mountain City (GA)",
+      "type": "city",
+      "county": "Rabun County"
+    },
+    {
+      "label": "Mountain Park (GA)",
+      "type": "city",
+      "county": "Gwinnett County"
+    },
+    {
+      "label": "Musella (GA)",
+      "type": "city",
+      "county": "Crawford County"
+    },
+    {
+      "label": "Nahunta (GA)",
+      "type": "city",
+      "county": "Brantley County"
+    },
+    {
+      "label": "Nashville (GA)",
+      "type": "city",
+      "county": "Berrien County"
+    },
+    {
+      "label": "Naylor (GA)",
+      "type": "city",
+      "county": "Lowndes County"
+    },
+    {
+      "label": "Nelson (GA)",
+      "type": "city",
+      "county": "Cherokee County"
+    },
+    {
+      "label": "New England (GA)",
+      "type": "city",
+      "county": "Dade County"
+    },
+    {
+      "label": "Newborn (GA)",
+      "type": "city",
+      "county": "Newton County"
+    },
+    {
+      "label": "Newington (GA)",
+      "type": "city",
+      "county": "Screven County"
+    },
+    {
+      "label": "Newnan (GA)",
+      "type": "city",
+      "county": "Coweta County"
+    },
+    {
+      "label": "Newton (GA)",
+      "type": "city",
+      "county": "Baker County"
+    },
+    {
+      "label": "Nicholls (GA)",
+      "type": "city",
+      "county": "Coffee County"
+    },
+    {
+      "label": "Nicholson (GA)",
+      "type": "city",
+      "county": "Jackson County"
+    },
+    {
+      "label": "Norcross (GA)",
+      "type": "city",
+      "county": "Gwinnett County"
+    },
+    {
+      "label": "Norman Park (GA)",
+      "type": "city",
+      "county": "Colquitt County"
+    },
+    {
+      "label": "Norristown (GA)",
+      "type": "city",
+      "county": "Emanuel County"
+    },
+    {
+      "label": "North Decatur (GA)",
+      "type": "city",
+      "county": "DeKalb County"
+    },
+    {
+      "label": "North Druid Hills (GA)",
+      "type": "city",
+      "county": "DeKalb County"
+    },
+    {
+      "label": "North High Shoals (GA)",
+      "type": "city",
+      "county": "Oconee County"
+    },
+    {
+      "label": "Norwood (GA)",
+      "type": "city",
+      "county": "Warren County"
+    },
+    {
+      "label": "Nunez (GA)",
+      "type": "city",
+      "county": "Emanuel County"
+    },
+    {
+      "label": "Oak Park (GA)",
+      "type": "city",
+      "county": "Emanuel County"
+    },
+    {
+      "label": "Oakwood (GA)",
+      "type": "city",
+      "county": "Hall County"
+    },
+    {
+      "label": "Ochlocknee (GA)",
+      "type": "city",
+      "county": "Thomas County"
+    },
+    {
+      "label": "Ocilla (GA)",
+      "type": "city",
+      "county": "Irwin County"
+    },
+    {
+      "label": "Oconee (GA)",
+      "type": "city",
+      "county": "Washington County"
+    },
+    {
+      "label": "Odum (GA)",
+      "type": "city",
+      "county": "Wayne County"
+    },
+    {
+      "label": "Offerman (GA)",
+      "type": "city",
+      "county": "Pierce County"
+    },
+    {
+      "label": "Oglethorpe (GA)",
+      "type": "city",
+      "county": "Macon County"
+    },
+    {
+      "label": "Ohoopee (GA)",
+      "type": "city",
+      "county": "Toombs County"
+    },
+    {
+      "label": "Oliver (GA)",
+      "type": "city",
+      "county": "Screven County"
+    },
+    {
+      "label": "Omega (GA)",
+      "type": "city",
+      "county": "Tift County"
+    },
+    {
+      "label": "Orchard Hill (GA)",
+      "type": "city",
+      "county": "Spalding County"
+    },
+    {
+      "label": "Oxford (GA)",
+      "type": "city",
+      "county": "Newton County"
+    },
+    {
+      "label": "Palmetto (GA)",
+      "type": "city",
+      "county": "Fulton County"
+    },
+    {
+      "label": "Panthersville (GA)",
+      "type": "city",
+      "county": "DeKalb County"
+    },
+    {
+      "label": "Parrott (GA)",
+      "type": "city",
+      "county": "Terrell County"
+    },
+    {
+      "label": "Patterson (GA)",
+      "type": "city",
+      "county": "Pierce County"
+    },
+    {
+      "label": "Pavo (GA)",
+      "type": "city",
+      "county": "Thomas County"
+    },
+    {
+      "label": "Peachtree City (GA)",
+      "type": "city",
+      "county": "Fayette County"
+    },
+    {
+      "label": "Peachtree Corners (GA)",
+      "type": "city",
+      "county": "Gwinnett County"
+    },
+    {
+      "label": "Pearson (GA)",
+      "type": "city",
+      "county": "Atkinson County"
+    },
+    {
+      "label": "Pelham (GA)",
+      "type": "city",
+      "county": "Mitchell County"
+    },
+    {
+      "label": "Pembroke (GA)",
+      "type": "city",
+      "county": "Bryan County"
+    },
+    {
+      "label": "Pendergrass (GA)",
+      "type": "city",
+      "county": "Jackson County"
+    },
+    {
+      "label": "Perkins (GA)",
+      "type": "city",
+      "county": "Jenkins County"
+    },
+    {
+      "label": "Perry (GA)",
+      "type": "city",
+      "county": "Houston County"
+    },
+    {
+      "label": "Phillipsburg (GA)",
+      "type": "city",
+      "county": "Tift County"
+    },
+    {
+      "label": "Pine Lake (GA)",
+      "type": "city",
+      "county": "DeKalb County"
+    },
+    {
+      "label": "Pine Mountain (GA)",
+      "type": "city",
+      "county": "Harris County"
+    },
+    {
+      "label": "Pinehurst (GA)",
+      "type": "city",
+      "county": "Dooly County"
+    },
+    {
+      "label": "Pineview (GA)",
+      "type": "city",
+      "county": "Wilcox County"
+    },
+    {
+      "label": "Piney Grove (GA)",
+      "type": "city",
+      "county": "Harris County"
+    },
+    {
+      "label": "Pitts (GA)",
+      "type": "city",
+      "county": "Wilcox County"
+    },
+    {
+      "label": "Plains (GA)",
+      "type": "city",
+      "county": "Sumter County"
+    },
+    {
+      "label": "Plainville (GA)",
+      "type": "city",
+      "county": "Gordon County"
+    },
+    {
+      "label": "Pooler (GA)",
+      "type": "city",
+      "county": "Chatham County"
+    },
+    {
+      "label": "Port Wentworth (GA)",
+      "type": "city",
+      "county": "Chatham County"
+    },
+    {
+      "label": "Portal (GA)",
+      "type": "city",
+      "county": "Bulloch County"
+    },
+    {
+      "label": "Porterdale (GA)",
+      "type": "city",
+      "county": "Newton County"
+    },
+    {
+      "label": "Poulan (GA)",
+      "type": "city",
+      "county": "Worth County"
+    },
+    {
+      "label": "Powder Springs (GA)",
+      "type": "city",
+      "county": "Cobb County"
+    },
+    {
+      "label": "Pulaski (GA)",
+      "type": "city",
+      "county": "Candler County"
+    },
+    {
+      "label": "Putney (GA)",
+      "type": "city",
+      "county": "Dougherty County"
+    },
+    {
+      "label": "Quitman (GA)",
+      "type": "city",
+      "county": "Brooks County"
+    },
+    {
+      "label": "Ranger (GA)",
+      "type": "city",
+      "county": "Gordon County"
+    },
+    {
+      "label": "Raoul (GA)",
+      "type": "city",
+      "county": "Habersham County"
+    },
+    {
+      "label": "Ray City (GA)",
+      "type": "city",
+      "county": "Berrien County"
+    },
+    {
+      "label": "Rayle (GA)",
+      "type": "city",
+      "county": "Wilkes County"
+    },
+    {
+      "label": "Rebecca (GA)",
+      "type": "city",
+      "county": "Turner County"
+    },
+    {
+      "label": "Redan (GA)",
+      "type": "city",
+      "county": "DeKalb County"
+    },
+    {
+      "label": "Reed Creek (GA)",
+      "type": "city",
+      "county": "Hart County"
+    },
+    {
+      "label": "Register (GA)",
+      "type": "city",
+      "county": "Bulloch County"
+    },
+    {
+      "label": "Reidsville (GA)",
+      "type": "city",
+      "county": "Tattnall County"
+    },
+    {
+      "label": "Remerton (GA)",
+      "type": "city",
+      "county": "Lowndes County"
+    },
+    {
+      "label": "Rentz (GA)",
+      "type": "city",
+      "county": "Laurens County"
+    },
+    {
+      "label": "Resaca (GA)",
+      "type": "city",
+      "county": "Gordon County"
+    },
+    {
+      "label": "Rest Haven (GA)",
+      "type": "city",
+      "county": "Gwinnett County"
+    },
+    {
+      "label": "Reynolds (GA)",
+      "type": "city",
+      "county": "Taylor County"
+    },
+    {
+      "label": "Rhine (GA)",
+      "type": "city",
+      "county": "Dodge County"
+    },
+    {
+      "label": "Riceboro (GA)",
+      "type": "city",
+      "county": "Liberty County"
+    },
+    {
+      "label": "Richland (GA)",
+      "type": "city",
+      "county": "Stewart County"
+    },
+    {
+      "label": "Richmond Hill (GA)",
+      "type": "city",
+      "county": "Bryan County"
+    },
+    {
+      "label": "Riddleville (GA)",
+      "type": "city",
+      "county": "Washington County"
+    },
+    {
+      "label": "Rincon (GA)",
+      "type": "city",
+      "county": "Effingham County"
+    },
+    {
+      "label": "Ringgold (GA)",
+      "type": "city",
+      "county": "Catoosa County"
+    },
+    {
+      "label": "Riverdale (GA)",
+      "type": "city",
+      "county": "Clayton County"
+    },
+    {
+      "label": "Roberta (GA)",
+      "type": "city",
+      "county": "Crawford County"
+    },
+    {
+      "label": "Robins AFB (GA)",
+      "type": "city",
+      "county": "Houston County"
+    },
+    {
+      "label": "Rochelle (GA)",
+      "type": "city",
+      "county": "Wilcox County"
+    },
+    {
+      "label": "Rock Spring (GA)",
+      "type": "city",
+      "county": "Walker County"
+    },
+    {
+      "label": "Rockingham (GA)",
+      "type": "city",
+      "county": "Bacon County"
+    },
+    {
+      "label": "Rockmart (GA)",
+      "type": "city",
+      "county": "Polk County"
+    },
+    {
+      "label": "Rocky Ford (GA)",
+      "type": "city",
+      "county": "Screven County"
+    },
+    {
+      "label": "Rome (GA)",
+      "type": "city",
+      "county": "Floyd County"
+    },
+    {
+      "label": "Roopville (GA)",
+      "type": "city",
+      "county": "Carroll County"
+    },
+    {
+      "label": "Rossville (GA)",
+      "type": "city",
+      "county": "Walker County"
+    },
+    {
+      "label": "Roswell (GA)",
+      "type": "city",
+      "county": "Fulton County"
+    },
+    {
+      "label": "Royston (GA)",
+      "type": "city",
+      "county": "Franklin County"
+    },
+    {
+      "label": "Russell (GA)",
+      "type": "city",
+      "county": "Barrow County"
+    },
+    {
+      "label": "Rutledge (GA)",
+      "type": "city",
+      "county": "Morgan County"
+    },
+    {
+      "label": "Sale City (GA)",
+      "type": "city",
+      "county": "Mitchell County"
+    },
+    {
+      "label": "Salem (GA)",
+      "type": "city",
+      "county": "Upson County"
+    },
+    {
+      "label": "Sandersville (GA)",
+      "type": "city",
+      "county": "Washington County"
+    },
+    {
+      "label": "Sandy Springs (GA)",
+      "type": "city",
+      "county": "Fulton County"
+    },
+    {
+      "label": "Santa Claus (GA)",
+      "type": "city",
+      "county": "Toombs County"
+    },
+    {
+      "label": "Sardis (GA)",
+      "type": "city",
+      "county": "Burke County"
+    },
+    {
+      "label": "Sasser (GA)",
+      "type": "city",
+      "county": "Terrell County"
+    },
+    {
+      "label": "Satilla (GA)",
+      "type": "city",
+      "county": "Jeff Davis County"
+    },
+    {
+      "label": "Sautee-Nacoochee (GA)",
+      "type": "city",
+      "county": "White County"
+    },
+    {
+      "label": "Savannah (GA)",
+      "type": "city",
+      "county": "Chatham County"
+    },
+    {
+      "label": "Scotland (GA)",
+      "type": "city",
+      "county": "Telfair County"
+    },
+    {
+      "label": "Scottdale (GA)",
+      "type": "city",
+      "county": "DeKalb County"
+    },
+    {
+      "label": "Screven (GA)",
+      "type": "city",
+      "county": "Wayne County"
+    },
+    {
+      "label": "Senoia (GA)",
+      "type": "city",
+      "county": "Coweta County"
+    },
+    {
+      "label": "Seville (GA)",
+      "type": "city",
+      "county": "Wilcox County"
+    },
+    {
+      "label": "Shady Dale (GA)",
+      "type": "city",
+      "county": "Jasper County"
+    },
+    {
+      "label": "Shannon (GA)",
+      "type": "city",
+      "county": "Floyd County"
+    },
+    {
+      "label": "Sharon (GA)",
+      "type": "city",
+      "county": "Taliaferro County"
+    },
+    {
+      "label": "Sharpsburg (GA)",
+      "type": "city",
+      "county": "Coweta County"
+    },
+    {
+      "label": "Shellman (GA)",
+      "type": "city",
+      "county": "Randolph County"
+    },
+    {
+      "label": "Shiloh (GA)",
+      "type": "city",
+      "county": "Harris County"
+    },
+    {
+      "label": "Siloam (GA)",
+      "type": "city",
+      "county": "Greene County"
+    },
+    {
+      "label": "Skidaway Island (GA)",
+      "type": "city",
+      "county": "Chatham County"
+    },
+    {
+      "label": "Sky Valley (GA)",
+      "type": "city",
+      "county": "Rabun County"
+    },
+    {
+      "label": "Smarr (GA)",
+      "type": "city",
+      "county": "Monroe County"
+    },
+    {
+      "label": "Smithville (GA)",
+      "type": "city",
+      "county": "Lee County"
+    },
+    {
+      "label": "Smyrna (GA)",
+      "type": "city",
+      "county": "Cobb County"
+    },
+    {
+      "label": "Snellville (GA)",
+      "type": "city",
+      "county": "Gwinnett County"
+    },
+    {
+      "label": "Social Circle (GA)",
+      "type": "city",
+      "county": "Walton County"
+    },
+    {
+      "label": "Soperton (GA)",
+      "type": "city",
+      "county": "Treutlen County"
+    },
+    {
+      "label": "South Fulton (GA)",
+      "type": "city",
+      "county": "Fulton County"
+    },
+    {
+      "label": "Sparks (GA)",
+      "type": "city",
+      "county": "Cook County"
+    },
+    {
+      "label": "Sparta (GA)",
+      "type": "city",
+      "county": "Hancock County"
+    },
+    {
+      "label": "Springfield (GA)",
+      "type": "city",
+      "county": "Effingham County"
+    },
+    {
+      "label": "St. Marys (GA)",
+      "type": "city",
+      "county": "Camden County"
+    },
+    {
+      "label": "St. Simons (GA)",
+      "type": "city",
+      "county": "Glynn County"
+    },
+    {
+      "label": "Stapleton (GA)",
+      "type": "city",
+      "county": "Jefferson County"
+    },
+    {
+      "label": "Statesboro (GA)",
+      "type": "city",
+      "county": "Bulloch County"
+    },
+    {
+      "label": "Statham (GA)",
+      "type": "city",
+      "county": "Barrow County"
+    },
+    {
+      "label": "Sterling (GA)",
+      "type": "city",
+      "county": "Glynn County"
+    },
+    {
+      "label": "Stillmore (GA)",
+      "type": "city",
+      "county": "Emanuel County"
+    },
+    {
+      "label": "Stockbridge (GA)",
+      "type": "city",
+      "county": "Henry County"
+    },
+    {
+      "label": "Stockton (GA)",
+      "type": "city",
+      "county": "Lanier County"
+    },
+    {
+      "label": "Stone Mountain (GA)",
+      "type": "city",
+      "county": "DeKalb County"
+    },
+    {
+      "label": "Stonecrest (GA)",
+      "type": "city",
+      "county": "DeKalb County"
+    },
+    {
+      "label": "Sugar Hill (GA)",
+      "type": "city",
+      "county": "Gwinnett County"
+    },
+    {
+      "label": "Summertown (GA)",
+      "type": "city",
+      "county": "Emanuel County"
+    },
+    {
+      "label": "Summerville (GA)",
+      "type": "city",
+      "county": "Chattooga County"
+    },
+    {
+      "label": "Sumner (GA)",
+      "type": "city",
+      "county": "Worth County"
+    },
+    {
+      "label": "Sunnyside (GA)",
+      "type": "city",
+      "county": "Ware County"
+    },
+    {
+      "label": "Sunset Village (GA)",
+      "type": "city",
+      "county": "Upson County"
+    },
+    {
+      "label": "Surrency (GA)",
+      "type": "city",
+      "county": "Appling County"
+    },
+    {
+      "label": "Suwanee (GA)",
+      "type": "city",
+      "county": "Gwinnett County"
+    },
+    {
+      "label": "Swainsboro (GA)",
+      "type": "city",
+      "county": "Emanuel County"
+    },
+    {
+      "label": "Sycamore (GA)",
+      "type": "city",
+      "county": "Turner County"
+    },
+    {
+      "label": "Sylvania (GA)",
+      "type": "city",
+      "county": "Screven County"
+    },
+    {
+      "label": "Sylvester (GA)",
+      "type": "city",
+      "county": "Worth County"
+    },
+    {
+      "label": "Talahi Island (GA)",
+      "type": "city",
+      "county": "Chatham County"
+    },
+    {
+      "label": "Talbotton (GA)",
+      "type": "city",
+      "county": "Talbot County"
+    },
+    {
+      "label": "Talking Rock (GA)",
+      "type": "city",
+      "county": "Pickens County"
+    },
+    {
+      "label": "Tallapoosa (GA)",
+      "type": "city",
+      "county": "Haralson County"
+    },
+    {
+      "label": "Tallulah Falls (GA)",
+      "type": "city",
+      "county": "Habersham County"
+    },
+    {
+      "label": "Talmo (GA)",
+      "type": "city",
+      "county": "Jackson County"
+    },
+    {
+      "label": "Tarrytown (GA)",
+      "type": "city",
+      "county": "Montgomery County"
+    },
+    {
+      "label": "Tate City (GA)",
+      "type": "city",
+      "county": "Towns County"
+    },
+    {
+      "label": "Taylorsville (GA)",
+      "type": "city",
+      "county": "Bartow County"
+    },
+    {
+      "label": "Tazewell (GA)",
+      "type": "city",
+      "county": "Marion County"
+    },
+    {
+      "label": "Temple (GA)",
+      "type": "city",
+      "county": "Carroll County"
+    },
+    {
+      "label": "Tennille (GA)",
+      "type": "city",
+      "county": "Washington County"
+    },
+    {
+      "label": "The Rock (GA)",
+      "type": "city",
+      "county": "Upson County"
+    },
+    {
+      "label": "Thomaston (GA)",
+      "type": "city",
+      "county": "Upson County"
+    },
+    {
+      "label": "Thomasville (GA)",
+      "type": "city",
+      "county": "Thomas County"
+    },
+    {
+      "label": "Thomson (GA)",
+      "type": "city",
+      "county": "McDuffie County"
+    },
+    {
+      "label": "Thunderbolt (GA)",
+      "type": "city",
+      "county": "Chatham County"
+    },
+    {
+      "label": "Tifton (GA)",
+      "type": "city",
+      "county": "Tift County"
+    },
+    {
+      "label": "Tiger (GA)",
+      "type": "city",
+      "county": "Rabun County"
+    },
+    {
+      "label": "Tignall (GA)",
+      "type": "city",
+      "county": "Wilkes County"
+    },
+    {
+      "label": "Toccoa (GA)",
+      "type": "city",
+      "county": "Stephens County"
+    },
+    {
+      "label": "Toomsboro (GA)",
+      "type": "city",
+      "county": "Wilkinson County"
+    },
+    {
+      "label": "Trenton (GA)",
+      "type": "city",
+      "county": "Dade County"
+    },
+    {
+      "label": "Trion (GA)",
+      "type": "city",
+      "county": "Chattooga County"
+    },
+    {
+      "label": "Tucker (GA)",
+      "type": "city",
+      "county": "DeKalb County"
+    },
+    {
+      "label": "Tunnel Hill (GA)",
+      "type": "city",
+      "county": "Whitfield County"
+    },
+    {
+      "label": "Turin (GA)",
+      "type": "city",
+      "county": "Coweta County"
+    },
+    {
+      "label": "Twin City (GA)",
+      "type": "city",
+      "county": "Emanuel County"
+    },
+    {
+      "label": "Ty Ty (GA)",
+      "type": "city",
+      "county": "Tift County"
+    },
+    {
+      "label": "Tybee Island (GA)",
+      "type": "city",
+      "county": "Chatham County"
+    },
+    {
+      "label": "Tyrone (GA)",
+      "type": "city",
+      "county": "Fayette County"
+    },
+    {
+      "label": "Unadilla (GA)",
+      "type": "city",
+      "county": "Dooly County"
+    },
+    {
+      "label": "Union City (GA)",
+      "type": "city",
+      "county": "Fulton County"
+    },
+    {
+      "label": "Union Point (GA)",
+      "type": "city",
+      "county": "Greene County"
+    },
+    {
+      "label": "Unionville (GA)",
+      "type": "city",
+      "county": "Tift County"
+    },
+    {
+      "label": "Uvalda (GA)",
+      "type": "city",
+      "county": "Montgomery County"
+    },
+    {
+      "label": "Valdosta (GA)",
+      "type": "city",
+      "county": "Lowndes County"
+    },
+    {
+      "label": "Varnell (GA)",
+      "type": "city",
+      "county": "Whitfield County"
+    },
+    {
+      "label": "Vernonburg (GA)",
+      "type": "city",
+      "county": "Chatham County"
+    },
+    {
+      "label": "Vidalia (GA)",
+      "type": "city",
+      "county": "Toombs County"
+    },
+    {
+      "label": "Vidette (GA)",
+      "type": "city",
+      "county": "Burke County"
+    },
+    {
+      "label": "Vienna (GA)",
+      "type": "city",
+      "county": "Dooly County"
+    },
+    {
+      "label": "Villa Rica (GA)",
+      "type": "city",
+      "county": "Carroll County"
+    },
+    {
+      "label": "Vinings (GA)",
+      "type": "city",
+      "county": "Cobb County"
+    },
+    {
+      "label": "Waco (GA)",
+      "type": "city",
+      "county": "Haralson County"
+    },
+    {
+      "label": "Wadley (GA)",
+      "type": "city",
+      "county": "Jefferson County"
+    },
+    {
+      "label": "Waleska (GA)",
+      "type": "city",
+      "county": "Cherokee County"
+    },
+    {
+      "label": "Walnut Grove (GA)",
+      "type": "city",
+      "county": "Walton County"
+    },
+    {
+      "label": "Walthourville (GA)",
+      "type": "city",
+      "county": "Liberty County"
+    },
+    {
+      "label": "Waresboro (GA)",
+      "type": "city",
+      "county": "Ware County"
+    },
+    {
+      "label": "Warm Springs (GA)",
+      "type": "city",
+      "county": "Meriwether County"
+    },
+    {
+      "label": "Warner Robins (GA)",
+      "type": "city",
+      "county": "Houston County"
+    },
+    {
+      "label": "Warrenton (GA)",
+      "type": "city",
+      "county": "Warren County"
+    },
+    {
+      "label": "Warthen (GA)",
+      "type": "city",
+      "county": "Washington County"
+    },
+    {
+      "label": "Warwick (GA)",
+      "type": "city",
+      "county": "Worth County"
+    },
+    {
+      "label": "Washington (GA)",
+      "type": "city",
+      "county": "Wilkes County"
+    },
+    {
+      "label": "Watkinsville (GA)",
+      "type": "city",
+      "county": "Oconee County"
+    },
+    {
+      "label": "Waverly (GA)",
+      "type": "city",
+      "county": "Camden County"
+    },
+    {
+      "label": "Waverly Hall (GA)",
+      "type": "city",
+      "county": "Harris County"
+    },
+    {
+      "label": "Waycross (GA)",
+      "type": "city",
+      "county": "Ware County"
+    },
+    {
+      "label": "Waynesboro (GA)",
+      "type": "city",
+      "county": "Burke County"
+    },
+    {
+      "label": "Waynesville (GA)",
+      "type": "city",
+      "county": "Brantley County"
+    },
+    {
+      "label": "Wenona (GA)",
+      "type": "city",
+      "county": "Crisp County"
+    },
+    {
+      "label": "West Brow (GA)",
+      "type": "city",
+      "county": "Dade County"
+    },
+    {
+      "label": "West Point (GA)",
+      "type": "city",
+      "county": "Troup County"
+    },
+    {
+      "label": "Whigham (GA)",
+      "type": "city",
+      "county": "Grady County"
+    },
+    {
+      "label": "White (GA)",
+      "type": "city",
+      "county": "Bartow County"
+    },
+    {
+      "label": "White Plains (GA)",
+      "type": "city",
+      "county": "Greene County"
+    },
+    {
+      "label": "Whitemarsh Island (GA)",
+      "type": "city",
+      "county": "Chatham County"
+    },
+    {
+      "label": "Whitesburg (GA)",
+      "type": "city",
+      "county": "Carroll County"
+    },
+    {
+      "label": "Wildwood (GA)",
+      "type": "city",
+      "county": "Dade County"
+    },
+    {
+      "label": "Willacoochee (GA)",
+      "type": "city",
+      "county": "Atkinson County"
+    },
+    {
+      "label": "Williamson (GA)",
+      "type": "city",
+      "county": "Pike County"
+    },
+    {
+      "label": "Wilmington Island (GA)",
+      "type": "city",
+      "county": "Chatham County"
+    },
+    {
+      "label": "Winder (GA)",
+      "type": "city",
+      "county": "Barrow County"
+    },
+    {
+      "label": "Winterville (GA)",
+      "type": "city",
+      "county": "Clarke County"
+    },
+    {
+      "label": "Woodbine (GA)",
+      "type": "city",
+      "county": "Camden County"
+    },
+    {
+      "label": "Woodbury (GA)",
+      "type": "city",
+      "county": "Meriwether County"
+    },
+    {
+      "label": "Woodland (GA)",
+      "type": "city",
+      "county": "Talbot County"
+    },
+    {
+      "label": "Woodstock (GA)",
+      "type": "city",
+      "county": "Cherokee County"
+    },
+    {
+      "label": "Woodville (GA)",
+      "type": "city",
+      "county": "Greene County"
+    },
+    {
+      "label": "Woolsey (GA)",
+      "type": "city",
+      "county": "Fayette County"
+    },
+    {
+      "label": "Wrens (GA)",
+      "type": "city",
+      "county": "Jefferson County"
+    },
+    {
+      "label": "Wrightsville (GA)",
+      "type": "city",
+      "county": "Johnson County"
+    },
+    {
+      "label": "Yatesville (GA)",
+      "type": "city",
+      "county": "Upson County"
+    },
+    {
+      "label": "Yonah (GA)",
+      "type": "city",
+      "county": "White County"
+    },
+    {
+      "label": "Young Harris (GA)",
+      "type": "city",
+      "county": "Towns County"
+    },
+    {
+      "label": "Zebulon (GA)",
+      "type": "city",
+      "county": "Pike County"
+    }
+  ]
+}
