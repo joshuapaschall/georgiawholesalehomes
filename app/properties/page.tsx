@@ -1,3 +1,5 @@
+import type { Metadata } from 'next';
+import Image from 'next/image';
 import Link from 'next/link';
 import { Navbar } from '@/components/Navbar';
 import { Footer } from '@/components/Footer';
@@ -23,6 +25,14 @@ async function getProperties(): Promise<Property[]> {
     return [];
   }
 }
+
+export const metadata: Metadata = {
+  title: 'Current Available Properties | Georgia Wholesale Homes',
+  description: 'Browse active off-market Georgia investment properties and join the VIP list for instant new deal alerts.',
+  alternates: { canonical: '/properties' },
+  openGraph: { title: 'Current Available Properties', description: 'Browse active off-market Georgia investment properties.', url: '/properties', images: ['/og-image.jpg'] },
+  twitter: { card: 'summary_large_image', images: ['/og-image.jpg'] },
+};
 
 export default async function PropertiesPage() {
   const properties = await getProperties();
@@ -53,12 +63,12 @@ export default async function PropertiesPage() {
                   <Link
                     key={p.id}
                     href={`/properties/${p.slug}`}
-                    className="group bg-cream rounded-lg overflow-hidden border border-navy/5 hover:shadow-lg transition-shadow"
+                    className="group bg-cream rounded-xl overflow-hidden border border-navy/10 shadow-card hover:shadow-cardHover transition-all duration-200"
                   >
                     <div className="aspect-[4/3] bg-navy/5 relative">
                       {p.primary_image_url ? (
                         // eslint-disable-next-line @next/next/no-img-element
-                        <img src={p.primary_image_url} alt={p.address} className="w-full h-full object-cover" />
+                        <Image src={p.primary_image_url} alt={`Photo of ${p.address}`} fill sizes="(max-width: 1024px) 100vw, 33vw" className="w-full h-full object-cover transition-transform duration-200 group-hover:scale-[1.02]" />
                       ) : (
                         <div className="w-full h-full flex items-center justify-center text-navy/30">No photo</div>
                       )}
