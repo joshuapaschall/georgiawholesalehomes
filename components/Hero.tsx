@@ -24,7 +24,7 @@ export function Hero() {
           {SOCIAL_PROOF ? <p className="text-sm text-navy/80">Trusted by {SOCIAL_PROOF}.</p> : null}
           {HERO_VIDEO_URL && (
             <div className="mt-6 rounded-lg overflow-hidden border border-navy/10 bg-white">
-              {!play ? <button onClick={() => setPlay(true)} className="w-full text-left">{/* eslint-disable-next-line @next/next/no-img-element */}<img src={HERO_VIDEO_POSTER || '/'} alt="Watch how Georgia Wholesale Homes works" className="w-full aspect-video object-cover" /></button> : <video src={HERO_VIDEO_URL} controls playsInline preload="none" className="w-full aspect-video" />}
+              {!play ? <button onClick={() => setPlay(true)} className="w-full text-left">{HERO_VIDEO_POSTER ? <><img src={HERO_VIDEO_POSTER} alt="Watch how Georgia Wholesale Homes works" className="w-full aspect-video object-cover" /></> : <div className="w-full aspect-video bg-navy flex items-center justify-center"><span aria-hidden="true" className="text-white text-4xl">▶</span><span className="sr-only">Play video</span></div>}</button> : <video src={HERO_VIDEO_URL} controls autoPlay playsInline preload="none" className="w-full aspect-video" />}
             </div>
           )}
         </div>
