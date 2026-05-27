@@ -2,7 +2,7 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { Navbar } from '@/components/Navbar';
 import { Footer } from '@/components/Footer';
-import { BuyerSignupForm } from '@/components/BuyerSignupForm';
+import { MultiStepBuyerForm } from '@/components/MultiStepBuyerForm';
 
 const API_BASE = process.env.NEXT_PUBLIC_LISTHIT_API_URL || 'https://app.listhit.io';
 
@@ -84,7 +84,7 @@ export default async function PropertyDetailPage({ params }: { params: Promise<{
                   <div className="text-4xl font-display">${property.price.toLocaleString()}</div>
                 </div>
               )}
-              <BuyerSignupForm variant="card" />
+              <MultiStepBuyerForm variant="card" />
             </div>
           </div>
         </section>
